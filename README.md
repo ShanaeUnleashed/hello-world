@@ -1,2 +1,4 @@
 # hello-world
-just another respository
+
+LOL this isnt even coding. 
+Just typing into the text editor
